@@ -6,7 +6,6 @@ import { componentTagger } from "lovable-tagger";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // ADD THE BASE LINE HERE (Replace 'grill-baby' with your actual repo name)
-  base: '/grill-baby/', 
   
   server: {
     host: "::",
